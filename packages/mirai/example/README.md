@@ -1,4 +1,4 @@
-# Eample
+# Example
 
 Here is an example of a basic form screen build with Mirai.
 
